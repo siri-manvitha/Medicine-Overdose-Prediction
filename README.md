@@ -32,9 +32,8 @@ This project aims to improve patient safety and assist healthcare professionals 
 ```
 Medicine-Overdose-Prediction
 │
-├── app.py
+├── medicine_pred.py
 ├── dataset.csv
-├── model.py
 ├── requirements.txt
 └── README.md
 ```
@@ -74,7 +73,7 @@ pip install -r requirements.txt
 Run the Streamlit application:
 
 ```
-streamlit run app.py
+streamlit run medicine_pred.py
 ```
 
 The application will open in your browser.
