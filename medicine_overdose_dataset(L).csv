@@ -1,1001 +1,1001 @@
-medicine_name,dosage_mg,frequency_per_day,overdose_risk
-Metformin,1000,3,High
-Metformin,800,2,Medium
-Metformin,1000,4,High
-Ibuprofen,1000,3,Medium
-Amoxicillin,500,4,Medium
-Ibuprofen,800,2,Low
-Ibuprofen,650,4,Medium
-Ibuprofen,250,1,Low
-Metformin,1000,4,High
-Azithromycin,1000,2,High
-Paracetamol,800,4,Medium
-Ibuprofen,800,1,Low
-Paracetamol,650,4,Medium
-Paracetamol,800,1,Low
-Amoxicillin,800,4,High
-Azithromycin,500,3,High
-Ibuprofen,800,2,Low
-Ibuprofen,800,1,Low
-Azithromycin,500,3,High
-Paracetamol,800,1,Low
-Ibuprofen,1000,3,Medium
-Azithromycin,500,1,Medium
-Metformin,250,4,Low
-Paracetamol,500,4,Low
-Azithromycin,250,4,High
-Metformin,250,2,Low
-Paracetamol,500,2,Low
-Metformin,650,4,High
-Amoxicillin,800,1,Low
-Ibuprofen,650,4,Medium
-Azithromycin,250,3,High
-Azithromycin,250,1,Low
-Amoxicillin,1000,3,Medium
-Metformin,500,2,Low
-Azithromycin,250,3,High
-Paracetamol,800,1,Low
-Paracetamol,500,2,Low
-Metformin,500,3,Low
-Azithromycin,650,2,High
-Ibuprofen,500,3,Low
-Paracetamol,650,2,Low
-Amoxicillin,250,1,Low
-Ibuprofen,800,1,Low
-Metformin,1000,4,High
-Azithromycin,1000,4,High
-Paracetamol,650,4,Medium
-Ibuprofen,800,1,Low
-Ibuprofen,1000,2,Medium
-Ibuprofen,500,3,Low
-Azithromycin,250,3,High
-Paracetamol,500,4,Low
-Amoxicillin,500,2,Low
-Ibuprofen,250,2,Low
-Metformin,1000,1,Low
-Amoxicillin,800,4,High
-Paracetamol,800,4,Medium
-Paracetamol,250,2,Low
-Amoxicillin,800,4,High
-Metformin,1000,1,Low
-Metformin,1000,4,High
-Paracetamol,650,4,Medium
-Azithromycin,650,1,High
-Ibuprofen,1000,2,Medium
-Metformin,1000,2,Medium
-Ibuprofen,1000,4,High
-Metformin,500,3,Low
-Paracetamol,250,1,Low
-Paracetamol,500,4,Low
-Ibuprofen,250,2,Low
-Azithromycin,800,2,High
-Ibuprofen,1000,3,Medium
-Ibuprofen,500,1,Low
-Azithromycin,1000,2,High
-Ibuprofen,1000,4,High
-Azithromycin,800,3,High
-Amoxicillin,250,1,Low
-Metformin,800,3,Medium
-Amoxicillin,500,2,Low
-Amoxicillin,800,1,Low
-Paracetamol,800,2,Low
-Ibuprofen,500,2,Low
-Azithromycin,500,1,Medium
-Metformin,500,4,Medium
-Metformin,650,1,Low
-Amoxicillin,250,3,Low
-Metformin,250,4,Low
-Metformin,500,4,Medium
-Amoxicillin,650,1,Low
-Amoxicillin,650,2,Low
-Amoxicillin,800,2,Low
-Amoxicillin,1000,3,Medium
-Paracetamol,1000,3,Medium
-Paracetamol,1000,4,Medium
-Azithromycin,250,4,High
-Amoxicillin,500,4,Medium
-Metformin,250,3,Low
-Ibuprofen,800,2,Low
-Amoxicillin,650,2,Low
-Amoxicillin,500,4,Medium
-Amoxicillin,500,4,Medium
-Ibuprofen,500,4,Medium
-Azithromycin,500,3,High
-Paracetamol,250,1,Low
-Paracetamol,500,1,Low
-Azithromycin,250,2,Medium
-Ibuprofen,650,1,Low
-Ibuprofen,1000,3,Medium
-Amoxicillin,250,2,Low
-Metformin,1000,1,Low
-Metformin,800,1,Low
-Metformin,800,2,Medium
-Paracetamol,500,4,Low
-Azithromycin,800,3,High
-Azithromycin,1000,1,High
-Paracetamol,650,4,Medium
-Paracetamol,650,1,Low
-Azithromycin,650,3,High
-Azithromycin,500,3,High
-Ibuprofen,650,4,Medium
-Ibuprofen,1000,1,Low
-Paracetamol,500,2,Low
-Metformin,1000,2,Medium
-Azithromycin,800,4,High
-Amoxicillin,800,1,Low
-Metformin,500,3,Low
-Paracetamol,250,2,Low
-Paracetamol,650,1,Low
-Ibuprofen,1000,1,Low
-Azithromycin,650,1,High
-Paracetamol,250,4,Low
-Ibuprofen,500,4,Medium
-Paracetamol,800,4,Medium
-Paracetamol,650,1,Low
-Paracetamol,250,3,Low
-Ibuprofen,500,2,Low
-Metformin,650,2,Low
-Azithromycin,1000,3,High
-Ibuprofen,800,2,Low
-Amoxicillin,650,4,Medium
-Amoxicillin,650,1,Low
-Azithromycin,500,4,High
-Azithromycin,1000,3,High
-Ibuprofen,500,3,Low
-Azithromycin,1000,3,High
-Metformin,250,3,Low
-Ibuprofen,800,4,Medium
-Metformin,1000,2,Medium
-Metformin,1000,1,Low
-Metformin,650,3,Medium
-Paracetamol,250,1,Low
-Azithromycin,1000,1,High
-Azithromycin,500,3,High
-Amoxicillin,800,2,Low
-Paracetamol,650,2,Low
-Paracetamol,250,1,Low
-Metformin,650,4,High
-Ibuprofen,800,1,Low
-Ibuprofen,500,3,Low
-Paracetamol,650,4,Medium
-Ibuprofen,250,4,Low
-Paracetamol,250,3,Low
-Paracetamol,1000,2,Low
-Amoxicillin,250,1,Low
-Metformin,800,2,Medium
-Azithromycin,500,3,High
-Ibuprofen,500,2,Low
-Ibuprofen,650,2,Low
-Ibuprofen,250,4,Low
-Amoxicillin,800,1,Low
-Metformin,250,4,Low
-Paracetamol,1000,1,Low
-Ibuprofen,650,3,Medium
-Metformin,800,3,Medium
-Paracetamol,800,2,Low
-Amoxicillin,800,3,Medium
-Ibuprofen,650,4,Medium
-Azithromycin,250,3,High
-Metformin,800,4,High
-Paracetamol,250,2,Low
-Paracetamol,250,1,Low
-Metformin,800,2,Medium
-Ibuprofen,250,3,Low
-Paracetamol,1000,4,Medium
-Metformin,800,3,Medium
-Metformin,1000,4,High
-Azithromycin,500,3,High
-Amoxicillin,650,2,Low
-Paracetamol,800,1,Low
-Metformin,1000,4,High
-Amoxicillin,800,1,Low
-Paracetamol,650,3,Low
-Metformin,250,3,Low
-Paracetamol,1000,1,Low
-Amoxicillin,1000,3,Medium
-Azithromycin,650,2,High
-Paracetamol,1000,4,Medium
-Paracetamol,1000,1,Low
-Metformin,250,1,Low
-Metformin,1000,2,Medium
-Azithromycin,1000,4,High
-Azithromycin,1000,2,High
-Metformin,1000,4,High
-Paracetamol,250,4,Low
-Metformin,800,4,High
-Metformin,250,1,Low
-Amoxicillin,1000,2,Medium
-Amoxicillin,1000,3,Medium
-Azithromycin,1000,2,High
-Metformin,250,2,Low
-Amoxicillin,500,1,Low
-Amoxicillin,1000,4,High
-Amoxicillin,250,3,Low
-Paracetamol,1000,4,Medium
-Amoxicillin,1000,3,Medium
-Azithromycin,650,4,High
-Amoxicillin,1000,4,High
-Amoxicillin,650,2,Low
-Azithromycin,800,3,High
-Amoxicillin,650,4,Medium
-Paracetamol,500,2,Low
-Paracetamol,1000,1,Low
-Ibuprofen,650,2,Low
-Azithromycin,250,3,High
-Ibuprofen,800,4,Medium
-Ibuprofen,1000,1,Low
-Azithromycin,650,4,High
-Ibuprofen,800,4,Medium
-Amoxicillin,250,4,Low
-Ibuprofen,1000,3,Medium
-Azithromycin,250,4,High
-Paracetamol,1000,1,Low
-Amoxicillin,1000,4,High
-Metformin,800,3,Medium
-Metformin,1000,1,Low
-Metformin,1000,4,High
-Metformin,250,1,Low
-Ibuprofen,250,3,Low
-Paracetamol,1000,1,Low
-Azithromycin,800,4,High
-Metformin,250,4,Low
-Amoxicillin,1000,3,Medium
-Metformin,800,4,High
-Azithromycin,250,1,Low
-Metformin,1000,3,High
-Amoxicillin,1000,3,Medium
-Metformin,500,4,Medium
-Metformin,500,3,Low
-Amoxicillin,800,2,Low
-Amoxicillin,800,3,Medium
-Ibuprofen,1000,3,Medium
-Ibuprofen,650,4,Medium
-Azithromycin,1000,2,High
-Ibuprofen,650,1,Low
-Ibuprofen,500,4,Medium
-Paracetamol,250,4,Low
-Ibuprofen,1000,1,Low
-Ibuprofen,650,2,Low
-Ibuprofen,800,2,Low
-Ibuprofen,650,1,Low
-Metformin,800,1,Low
-Amoxicillin,800,1,Low
-Amoxicillin,250,1,Low
-Paracetamol,650,4,Medium
-Amoxicillin,800,4,High
-Paracetamol,650,4,Medium
-Ibuprofen,500,3,Low
-Metformin,500,3,Low
-Azithromycin,500,2,High
-Paracetamol,800,3,Low
-Ibuprofen,1000,3,Medium
-Metformin,800,1,Low
-Amoxicillin,500,2,Low
-Metformin,500,4,Medium
-Amoxicillin,650,1,Low
-Metformin,500,1,Low
-Metformin,250,1,Low
-Metformin,800,3,Medium
-Metformin,250,2,Low
-Metformin,250,1,Low
-Metformin,1000,2,Medium
-Ibuprofen,250,3,Low
-Azithromycin,1000,4,High
-Azithromycin,250,2,Medium
-Azithromycin,1000,1,High
-Azithromycin,650,1,High
-Azithromycin,250,4,High
-Azithromycin,800,3,High
-Amoxicillin,1000,3,Medium
-Amoxicillin,650,1,Low
-Ibuprofen,250,3,Low
-Metformin,1000,3,High
-Ibuprofen,800,3,Medium
-Ibuprofen,1000,4,High
-Paracetamol,500,3,Low
-Ibuprofen,1000,2,Medium
-Ibuprofen,800,4,Medium
-Metformin,650,1,Low
-Ibuprofen,1000,2,Medium
-Azithromycin,1000,1,High
-Ibuprofen,800,1,Low
-Ibuprofen,250,3,Low
-Amoxicillin,250,2,Low
-Ibuprofen,800,3,Medium
-Ibuprofen,250,3,Low
-Paracetamol,250,2,Low
-Metformin,500,2,Low
-Paracetamol,650,2,Low
-Amoxicillin,650,4,Medium
-Ibuprofen,800,2,Low
-Azithromycin,500,3,High
-Paracetamol,250,1,Low
-Ibuprofen,1000,3,Medium
-Ibuprofen,800,4,Medium
-Metformin,800,2,Medium
-Ibuprofen,800,4,Medium
-Metformin,250,3,Low
-Paracetamol,800,3,Low
-Paracetamol,250,2,Low
-Metformin,250,2,Low
-Paracetamol,650,3,Low
-Paracetamol,500,1,Low
-Ibuprofen,800,2,Low
-Metformin,1000,4,High
-Paracetamol,650,4,Medium
-Azithromycin,650,3,High
-Paracetamol,800,2,Low
-Amoxicillin,650,2,Low
-Metformin,250,2,Low
-Amoxicillin,500,4,Medium
-Paracetamol,250,2,Low
-Paracetamol,500,3,Low
-Amoxicillin,500,3,Low
-Amoxicillin,500,4,Medium
-Metformin,500,2,Low
-Amoxicillin,250,2,Low
-Amoxicillin,500,3,Low
-Metformin,800,3,Medium
-Azithromycin,1000,4,High
-Metformin,800,1,Low
-Amoxicillin,500,1,Low
-Metformin,800,4,High
-Azithromycin,500,2,High
-Azithromycin,1000,2,High
-Metformin,500,3,Low
-Ibuprofen,650,3,Medium
-Metformin,250,4,Low
-Ibuprofen,500,4,Medium
-Amoxicillin,250,2,Low
-Paracetamol,500,3,Low
-Metformin,1000,1,Low
-Azithromycin,800,2,High
-Azithromycin,650,2,High
-Paracetamol,800,3,Low
-Azithromycin,650,4,High
-Ibuprofen,800,2,Low
-Metformin,650,2,Low
-Amoxicillin,1000,3,Medium
-Metformin,500,4,Medium
-Ibuprofen,1000,4,High
-Paracetamol,1000,1,Low
-Ibuprofen,1000,2,Medium
-Amoxicillin,800,3,Medium
-Paracetamol,800,2,Low
-Paracetamol,650,4,Medium
-Ibuprofen,1000,3,Medium
-Paracetamol,650,3,Low
-Azithromycin,500,3,High
-Ibuprofen,250,2,Low
-Metformin,500,1,Low
-Amoxicillin,500,3,Low
-Paracetamol,1000,1,Low
-Ibuprofen,250,4,Low
-Azithromycin,500,4,High
-Amoxicillin,650,1,Low
-Ibuprofen,250,3,Low
-Paracetamol,250,2,Low
-Metformin,800,3,Medium
-Ibuprofen,650,3,Medium
-Metformin,250,2,Low
-Ibuprofen,1000,4,High
-Ibuprofen,800,2,Low
-Ibuprofen,800,3,Medium
-Amoxicillin,250,2,Low
-Amoxicillin,500,1,Low
-Metformin,650,1,Low
-Paracetamol,650,4,Medium
-Paracetamol,1000,4,Medium
-Amoxicillin,1000,2,Medium
-Ibuprofen,500,2,Low
-Azithromycin,500,2,High
-Paracetamol,500,3,Low
-Metformin,500,4,Medium
-Metformin,800,4,High
-Metformin,1000,4,High
-Amoxicillin,500,1,Low
-Metformin,1000,2,Medium
-Azithromycin,500,3,High
-Ibuprofen,800,2,Low
-Azithromycin,500,2,High
-Azithromycin,500,1,Medium
-Paracetamol,800,2,Low
-Ibuprofen,250,2,Low
-Metformin,650,1,Low
-Azithromycin,650,4,High
-Azithromycin,800,4,High
-Paracetamol,650,4,Medium
-Paracetamol,1000,1,Low
-Ibuprofen,1000,3,Medium
-Paracetamol,1000,2,Low
-Metformin,1000,4,High
-Ibuprofen,500,3,Low
-Paracetamol,500,1,Low
-Amoxicillin,650,1,Low
-Paracetamol,650,2,Low
-Ibuprofen,250,3,Low
-Ibuprofen,1000,1,Low
-Metformin,500,4,Medium
-Azithromycin,500,3,High
-Ibuprofen,500,2,Low
-Amoxicillin,650,4,Medium
-Azithromycin,650,1,High
-Azithromycin,650,3,High
-Ibuprofen,650,4,Medium
-Paracetamol,250,4,Low
-Azithromycin,650,2,High
-Azithromycin,650,3,High
-Paracetamol,250,2,Low
-Azithromycin,1000,1,High
-Amoxicillin,250,3,Low
-Metformin,250,2,Low
-Paracetamol,800,3,Low
-Metformin,800,1,Low
-Ibuprofen,1000,1,Low
-Ibuprofen,1000,3,Medium
-Metformin,250,4,Low
-Azithromycin,800,1,High
-Metformin,800,1,Low
-Metformin,800,1,Low
-Azithromycin,800,2,High
-Paracetamol,650,4,Medium
-Amoxicillin,1000,3,Medium
-Amoxicillin,250,4,Low
-Azithromycin,500,4,High
-Amoxicillin,500,4,Medium
-Paracetamol,1000,2,Low
-Metformin,650,4,High
-Amoxicillin,650,4,Medium
-Amoxicillin,500,4,Medium
-Amoxicillin,500,2,Low
-Amoxicillin,800,4,High
-Metformin,1000,3,High
-Paracetamol,250,1,Low
-Ibuprofen,650,4,Medium
-Paracetamol,650,1,Low
-Ibuprofen,650,1,Low
-Metformin,500,1,Low
-Azithromycin,800,3,High
-Paracetamol,250,3,Low
-Azithromycin,1000,1,High
-Ibuprofen,800,4,Medium
-Paracetamol,650,4,Medium
-Azithromycin,1000,2,High
-Azithromycin,1000,1,High
-Azithromycin,650,1,High
-Azithromycin,650,1,High
-Azithromycin,250,2,Medium
-Paracetamol,800,4,Medium
-Amoxicillin,650,2,Low
-Azithromycin,800,1,High
-Azithromycin,1000,4,High
-Ibuprofen,250,3,Low
-Amoxicillin,650,2,Low
-Paracetamol,500,1,Low
-Ibuprofen,1000,3,Medium
-Paracetamol,250,1,Low
-Metformin,250,2,Low
-Azithromycin,800,3,High
-Amoxicillin,500,3,Low
-Ibuprofen,650,1,Low
-Metformin,800,4,High
-Azithromycin,500,4,High
-Amoxicillin,650,4,Medium
-Metformin,650,2,Low
-Azithromycin,500,1,Medium
-Metformin,1000,4,High
-Azithromycin,500,1,Medium
-Amoxicillin,800,2,Low
-Azithromycin,650,2,High
-Amoxicillin,500,1,Low
-Amoxicillin,1000,4,High
-Metformin,250,1,Low
-Azithromycin,650,2,High
-Metformin,650,1,Low
-Paracetamol,800,3,Low
-Azithromycin,650,4,High
-Ibuprofen,1000,1,Low
-Azithromycin,800,4,High
-Ibuprofen,500,1,Low
-Metformin,250,2,Low
-Metformin,650,1,Low
-Paracetamol,800,3,Low
-Metformin,800,4,High
-Amoxicillin,500,1,Low
-Amoxicillin,500,1,Low
-Paracetamol,1000,3,Medium
-Ibuprofen,650,2,Low
-Azithromycin,650,1,High
-Amoxicillin,800,1,Low
-Metformin,250,4,Low
-Azithromycin,1000,3,High
-Ibuprofen,800,1,Low
-Metformin,500,4,Medium
-Metformin,800,4,High
-Azithromycin,650,2,High
-Metformin,250,3,Low
-Azithromycin,1000,3,High
-Metformin,650,4,High
-Azithromycin,250,4,High
-Azithromycin,650,1,High
-Amoxicillin,1000,3,Medium
-Ibuprofen,500,3,Low
-Amoxicillin,500,2,Low
-Ibuprofen,800,1,Low
-Ibuprofen,800,4,Medium
-Metformin,250,4,Low
-Azithromycin,250,3,High
-Metformin,500,4,Medium
-Paracetamol,500,2,Low
-Ibuprofen,500,4,Medium
-Azithromycin,650,2,High
-Metformin,250,4,Low
-Amoxicillin,500,3,Low
-Azithromycin,250,3,High
-Metformin,1000,4,High
-Amoxicillin,650,4,Medium
-Metformin,650,4,High
-Metformin,1000,3,High
-Paracetamol,250,3,Low
-Metformin,1000,3,High
-Azithromycin,650,1,High
-Paracetamol,500,1,Low
-Paracetamol,1000,3,Medium
-Amoxicillin,500,4,Medium
-Amoxicillin,650,3,Medium
-Amoxicillin,1000,2,Medium
-Metformin,250,2,Low
-Metformin,650,4,High
-Paracetamol,800,2,Low
-Amoxicillin,500,3,Low
-Ibuprofen,800,4,Medium
-Azithromycin,800,3,High
-Azithromycin,650,1,High
-Azithromycin,650,4,High
-Paracetamol,500,4,Low
-Amoxicillin,650,4,Medium
-Azithromycin,1000,4,High
-Amoxicillin,650,3,Medium
-Ibuprofen,1000,3,Medium
-Paracetamol,1000,2,Low
-Metformin,650,2,Low
-Metformin,650,2,Low
-Paracetamol,250,2,Low
-Ibuprofen,650,4,Medium
-Ibuprofen,1000,4,High
-Ibuprofen,250,4,Low
-Paracetamol,250,4,Low
-Paracetamol,800,3,Low
-Azithromycin,650,4,High
-Azithromycin,800,2,High
-Azithromycin,250,3,High
-Azithromycin,500,1,Medium
-Metformin,250,1,Low
-Metformin,250,4,Low
-Ibuprofen,800,4,Medium
-Amoxicillin,250,2,Low
-Azithromycin,500,4,High
-Ibuprofen,1000,3,Medium
-Paracetamol,500,3,Low
-Ibuprofen,500,4,Medium
-Azithromycin,650,4,High
-Azithromycin,1000,3,High
-Ibuprofen,650,1,Low
-Azithromycin,650,4,High
-Azithromycin,500,2,High
-Amoxicillin,500,2,Low
-Metformin,650,1,Low
-Azithromycin,650,4,High
-Azithromycin,650,2,High
-Paracetamol,500,3,Low
-Azithromycin,800,3,High
-Paracetamol,650,2,Low
-Azithromycin,650,2,High
-Metformin,800,4,High
-Metformin,800,4,High
-Amoxicillin,250,1,Low
-Metformin,250,2,Low
-Amoxicillin,1000,1,Low
-Azithromycin,1000,4,High
-Azithromycin,1000,4,High
-Paracetamol,500,2,Low
-Ibuprofen,250,4,Low
-Ibuprofen,250,1,Low
-Paracetamol,500,2,Low
-Amoxicillin,650,2,Low
-Metformin,500,1,Low
-Metformin,650,4,High
-Paracetamol,500,1,Low
-Paracetamol,250,1,Low
-Paracetamol,1000,4,Medium
-Amoxicillin,250,4,Low
-Ibuprofen,500,2,Low
-Ibuprofen,250,4,Low
-Ibuprofen,250,2,Low
-Azithromycin,800,1,High
-Ibuprofen,250,2,Low
-Paracetamol,800,4,Medium
-Ibuprofen,650,4,Medium
-Metformin,800,1,Low
-Metformin,500,1,Low
-Metformin,250,1,Low
-Paracetamol,1000,3,Medium
-Metformin,250,1,Low
-Amoxicillin,650,3,Medium
-Paracetamol,1000,4,Medium
-Ibuprofen,1000,1,Low
-Amoxicillin,500,3,Low
-Paracetamol,800,2,Low
-Metformin,650,2,Low
-Ibuprofen,800,4,Medium
-Azithromycin,500,3,High
-Paracetamol,500,4,Low
-Metformin,650,3,Medium
-Metformin,1000,3,High
-Azithromycin,1000,3,High
-Amoxicillin,1000,3,Medium
-Azithromycin,800,4,High
-Ibuprofen,650,2,Low
-Paracetamol,250,1,Low
-Azithromycin,500,4,High
-Metformin,250,4,Low
-Paracetamol,650,1,Low
-Azithromycin,500,1,Medium
-Azithromycin,650,3,High
-Ibuprofen,250,1,Low
-Amoxicillin,650,3,Medium
-Ibuprofen,800,4,Medium
-Paracetamol,800,3,Low
-Paracetamol,1000,2,Low
-Amoxicillin,650,2,Low
-Ibuprofen,250,2,Low
-Paracetamol,250,4,Low
-Azithromycin,650,1,High
-Ibuprofen,800,3,Medium
-Amoxicillin,1000,2,Medium
-Azithromycin,650,3,High
-Metformin,650,2,Low
-Paracetamol,250,3,Low
-Azithromycin,800,3,High
-Amoxicillin,1000,4,High
-Azithromycin,500,2,High
-Azithromycin,650,4,High
-Amoxicillin,250,4,Low
-Metformin,800,2,Medium
-Ibuprofen,800,2,Low
-Metformin,800,2,Medium
-Amoxicillin,650,3,Medium
-Paracetamol,500,2,Low
-Ibuprofen,650,2,Low
-Paracetamol,500,2,Low
-Metformin,800,1,Low
-Azithromycin,650,3,High
-Amoxicillin,650,3,Medium
-Azithromycin,250,1,Low
-Azithromycin,500,3,High
-Paracetamol,500,3,Low
-Azithromycin,650,4,High
-Ibuprofen,650,1,Low
-Metformin,800,4,High
-Amoxicillin,1000,4,High
-Amoxicillin,800,3,Medium
-Metformin,250,3,Low
-Metformin,650,3,Medium
-Metformin,650,1,Low
-Metformin,800,4,High
-Azithromycin,1000,3,High
-Amoxicillin,1000,3,Medium
-Paracetamol,800,2,Low
-Ibuprofen,500,4,Medium
-Paracetamol,500,3,Low
-Ibuprofen,1000,3,Medium
-Ibuprofen,250,2,Low
-Azithromycin,650,4,High
-Ibuprofen,650,3,Medium
-Paracetamol,650,1,Low
-Metformin,800,3,Medium
-Azithromycin,250,1,Low
-Ibuprofen,1000,2,Medium
-Paracetamol,800,3,Low
-Amoxicillin,650,1,Low
-Ibuprofen,1000,3,Medium
-Metformin,800,3,Medium
-Paracetamol,650,2,Low
-Amoxicillin,1000,3,Medium
-Metformin,500,1,Low
-Metformin,250,2,Low
-Ibuprofen,800,2,Low
-Amoxicillin,250,3,Low
-Metformin,500,1,Low
-Azithromycin,650,2,High
-Ibuprofen,800,2,Low
-Metformin,250,2,Low
-Metformin,250,3,Low
-Metformin,250,2,Low
-Metformin,500,2,Low
-Metformin,500,3,Low
-Amoxicillin,650,3,Medium
-Ibuprofen,800,4,Medium
-Paracetamol,250,2,Low
-Amoxicillin,800,2,Low
-Azithromycin,1000,4,High
-Azithromycin,1000,1,High
-Azithromycin,250,1,Low
-Azithromycin,500,2,High
-Amoxicillin,800,1,Low
-Amoxicillin,650,4,Medium
-Paracetamol,250,1,Low
-Amoxicillin,250,4,Low
-Metformin,800,4,High
-Amoxicillin,1000,4,High
-Azithromycin,1000,1,High
-Azithromycin,500,1,Medium
-Metformin,800,1,Low
-Ibuprofen,500,1,Low
-Ibuprofen,800,2,Low
-Amoxicillin,500,4,Medium
-Metformin,500,1,Low
-Amoxicillin,1000,3,Medium
-Amoxicillin,500,4,Medium
-Ibuprofen,250,4,Low
-Ibuprofen,250,1,Low
-Azithromycin,650,2,High
-Metformin,1000,4,High
-Azithromycin,250,2,Medium
-Ibuprofen,500,2,Low
-Paracetamol,250,4,Low
-Ibuprofen,800,2,Low
-Metformin,800,3,Medium
-Metformin,800,4,High
-Azithromycin,500,4,High
-Metformin,650,1,Low
-Amoxicillin,250,3,Low
-Metformin,500,2,Low
-Ibuprofen,1000,1,Low
-Metformin,800,1,Low
-Amoxicillin,800,3,Medium
-Amoxicillin,650,2,Low
-Azithromycin,1000,3,High
-Metformin,1000,2,Medium
-Ibuprofen,800,2,Low
-Amoxicillin,1000,3,Medium
-Ibuprofen,500,2,Low
-Metformin,500,4,Medium
-Metformin,650,1,Low
-Ibuprofen,800,2,Low
-Ibuprofen,250,3,Low
-Amoxicillin,800,2,Low
-Metformin,500,4,Medium
-Metformin,1000,4,High
-Azithromycin,250,4,High
-Paracetamol,1000,4,Medium
-Metformin,250,4,Low
-Azithromycin,800,2,High
-Amoxicillin,1000,1,Low
-Metformin,250,3,Low
-Metformin,500,4,Medium
-Paracetamol,650,4,Medium
-Paracetamol,1000,3,Medium
-Amoxicillin,650,3,Medium
-Amoxicillin,1000,2,Medium
-Amoxicillin,1000,2,Medium
-Amoxicillin,250,2,Low
-Metformin,250,2,Low
-Azithromycin,250,1,Low
-Paracetamol,250,1,Low
-Amoxicillin,1000,4,High
-Azithromycin,800,4,High
-Azithromycin,800,2,High
-Metformin,500,3,Low
-Metformin,650,2,Low
-Ibuprofen,250,2,Low
-Metformin,800,4,High
-Metformin,500,3,Low
-Azithromycin,250,3,High
-Metformin,650,4,High
-Paracetamol,800,2,Low
-Amoxicillin,1000,3,Medium
-Metformin,800,2,Medium
-Azithromycin,1000,4,High
-Ibuprofen,500,2,Low
-Amoxicillin,1000,4,High
-Azithromycin,1000,3,High
-Metformin,800,1,Low
-Paracetamol,800,2,Low
-Azithromycin,800,4,High
-Ibuprofen,800,4,Medium
-Ibuprofen,1000,1,Low
-Ibuprofen,650,4,Medium
-Paracetamol,1000,3,Medium
-Azithromycin,800,4,High
-Ibuprofen,250,2,Low
-Amoxicillin,250,3,Low
-Paracetamol,500,3,Low
-Azithromycin,650,4,High
-Metformin,800,4,High
-Paracetamol,800,3,Low
-Azithromycin,650,4,High
-Amoxicillin,1000,1,Low
-Metformin,250,1,Low
-Ibuprofen,1000,4,High
-Metformin,500,1,Low
-Metformin,500,4,Medium
-Ibuprofen,800,2,Low
-Ibuprofen,500,4,Medium
-Ibuprofen,650,2,Low
-Ibuprofen,800,3,Medium
-Azithromycin,250,1,Low
-Paracetamol,800,4,Medium
-Amoxicillin,800,3,Medium
-Metformin,650,1,Low
-Azithromycin,1000,1,High
-Amoxicillin,500,1,Low
-Azithromycin,650,2,High
-Amoxicillin,500,4,Medium
-Azithromycin,800,1,High
-Amoxicillin,250,4,Low
-Ibuprofen,800,3,Medium
-Amoxicillin,500,1,Low
-Paracetamol,1000,2,Low
-Paracetamol,650,1,Low
-Metformin,650,2,Low
-Azithromycin,1000,3,High
-Ibuprofen,250,3,Low
-Amoxicillin,500,1,Low
-Azithromycin,650,1,High
-Paracetamol,500,1,Low
-Azithromycin,800,3,High
-Amoxicillin,650,2,Low
-Amoxicillin,1000,1,Low
-Paracetamol,1000,4,Medium
-Azithromycin,1000,4,High
-Paracetamol,250,2,Low
-Paracetamol,500,4,Low
-Ibuprofen,250,3,Low
-Metformin,1000,2,Medium
-Amoxicillin,1000,3,Medium
-Ibuprofen,800,1,Low
-Amoxicillin,650,4,Medium
-Metformin,1000,2,Medium
-Amoxicillin,800,1,Low
-Paracetamol,1000,1,Low
-Amoxicillin,250,1,Low
-Ibuprofen,650,4,Medium
-Amoxicillin,1000,4,High
-Ibuprofen,1000,2,Medium
-Ibuprofen,800,1,Low
-Paracetamol,250,1,Low
-Metformin,1000,4,High
-Amoxicillin,800,1,Low
-Amoxicillin,650,4,Medium
-Metformin,800,4,High
-Paracetamol,650,4,Medium
-Paracetamol,500,2,Low
-Metformin,800,3,Medium
-Amoxicillin,650,3,Medium
-Azithromycin,500,1,Medium
-Amoxicillin,250,3,Low
-Paracetamol,250,3,Low
-Metformin,650,3,Medium
-Amoxicillin,500,2,Low
-Azithromycin,800,4,High
-Metformin,1000,1,Low
-Amoxicillin,800,1,Low
-Ibuprofen,250,3,Low
-Paracetamol,650,2,Low
-Metformin,800,1,Low
-Paracetamol,500,2,Low
-Metformin,1000,1,Low
-Metformin,500,3,Low
-Ibuprofen,500,1,Low
-Paracetamol,500,3,Low
-Azithromycin,800,4,High
-Amoxicillin,650,1,Low
-Ibuprofen,1000,4,High
-Metformin,650,4,High
-Paracetamol,250,3,Low
-Metformin,1000,1,Low
-Azithromycin,250,3,High
-Paracetamol,1000,3,Medium
-Amoxicillin,250,3,Low
-Amoxicillin,800,2,Low
-Paracetamol,500,1,Low
-Amoxicillin,500,4,Medium
-Azithromycin,1000,3,High
-Paracetamol,800,4,Medium
-Azithromycin,800,1,High
-Amoxicillin,650,2,Low
-Ibuprofen,650,3,Medium
-Ibuprofen,1000,1,Low
-Amoxicillin,500,4,Medium
-Amoxicillin,650,3,Medium
-Azithromycin,800,3,High
-Ibuprofen,650,2,Low
-Azithromycin,800,4,High
-Metformin,1000,3,High
-Azithromycin,1000,1,High
-Metformin,500,3,Low
-Metformin,500,4,Medium
-Azithromycin,500,3,High
-Azithromycin,500,1,Medium
-Amoxicillin,1000,4,High
-Azithromycin,1000,1,High
-Azithromycin,250,1,Low
-Ibuprofen,250,3,Low
-Azithromycin,250,4,High
-Azithromycin,250,1,Low
-Paracetamol,800,2,Low
-Paracetamol,250,2,Low
-Ibuprofen,500,4,Medium
-Paracetamol,650,1,Low
-Amoxicillin,250,3,Low
-Ibuprofen,1000,2,Medium
-Paracetamol,800,1,Low
-Azithromycin,800,4,High
-Ibuprofen,800,2,Low
-Azithromycin,800,3,High
-Paracetamol,250,4,Low
-Amoxicillin,800,1,Low
-Azithromycin,1000,2,High
-Metformin,1000,1,Low
-Azithromycin,250,3,High
-Paracetamol,800,4,Medium
-Ibuprofen,800,4,Medium
-Ibuprofen,500,3,Low
-Paracetamol,650,4,Medium
-Azithromycin,1000,1,High
-Ibuprofen,250,1,Low
-Metformin,250,1,Low
-Paracetamol,1000,3,Medium
-Metformin,1000,3,High
-Ibuprofen,1000,4,High
-Amoxicillin,250,3,Low
-Paracetamol,800,2,Low
-Metformin,650,2,Low
-Ibuprofen,1000,2,Medium
-Paracetamol,800,4,Medium
-Azithromycin,650,2,High
-Metformin,250,3,Low
-Ibuprofen,1000,1,Low
-Ibuprofen,250,3,Low
-Paracetamol,500,2,Low
-Paracetamol,650,4,Medium
-Metformin,250,3,Low
-Amoxicillin,1000,4,High
-Azithromycin,1000,2,High
-Azithromycin,1000,4,High
-Paracetamol,1000,4,Medium
-Paracetamol,500,3,Low
-Azithromycin,500,4,High
-Amoxicillin,800,2,Low
-Azithromycin,650,3,High
-Paracetamol,500,4,Low
-Metformin,800,2,Medium
-Metformin,800,1,Low
-Azithromycin,1000,1,High
-Azithromycin,1000,3,High
-Paracetamol,800,2,Low
-Paracetamol,250,1,Low
-Metformin,1000,1,Low
-Paracetamol,500,3,Low
-Azithromycin,500,4,High
-Ibuprofen,250,3,Low
-Amoxicillin,650,3,Medium
-Paracetamol,800,1,Low
-Metformin,1000,3,High
-Paracetamol,650,3,Low
-Paracetamol,650,1,Low
-Amoxicillin,500,3,Low
-Metformin,500,2,Low
-Amoxicillin,250,2,Low
-Amoxicillin,250,3,Low
-Amoxicillin,1000,3,Medium
-Metformin,800,3,Medium
-Metformin,500,1,Low
-Ibuprofen,800,2,Low
-Paracetamol,1000,2,Low
-Metformin,800,3,Medium
-Ibuprofen,1000,2,Medium
-Metformin,1000,1,Low
-Ibuprofen,500,3,Low
-Metformin,500,3,Low
+medicine_name,dosage_mg,frequency_per_day,overdose_risk,disease_name
+Metformin,1000,3,High,Thyroid Disorder
+Metformin,800,2,Medium,Kidney Disease
+Metformin,1000,4,High,Heart Disease
+Ibuprofen,1000,3,Medium,None
+Amoxicillin,500,4,Medium,None
+Ibuprofen,800,2,Low,Liver Disease
+Ibuprofen,650,4,Medium,None
+Ibuprofen,250,1,Low,Heart Disease
+Metformin,1000,4,High,Hypertension
+Azithromycin,1000,2,High,Cancer
+Paracetamol,800,4,Medium,Heart Disease
+Ibuprofen,800,1,Low,Asthma
+Paracetamol,650,4,Medium,Liver Disease
+Paracetamol,800,1,Low,Kidney Disease
+Amoxicillin,800,4,High,Thyroid Disorder
+Azithromycin,500,3,High,Liver Disease
+Ibuprofen,800,2,Low,Cancer
+Ibuprofen,800,1,Low,Heart Disease
+Azithromycin,500,3,High,Kidney Disease
+Paracetamol,800,1,Low,Asthma
+Ibuprofen,1000,3,Medium,Cancer
+Azithromycin,500,1,Medium,Diabetes
+Metformin,250,4,Low,Heart Disease
+Paracetamol,500,4,Low,Hypertension
+Azithromycin,250,4,High,Thyroid Disorder
+Metformin,250,2,Low,None
+Paracetamol,500,2,Low,Thyroid Disorder
+Metformin,650,4,High,Thyroid Disorder
+Amoxicillin,800,1,Low,Liver Disease
+Ibuprofen,650,4,Medium,Heart Disease
+Azithromycin,250,3,High,None
+Azithromycin,250,1,Low,Liver Disease
+Amoxicillin,1000,3,Medium,Asthma
+Metformin,500,2,Low,Cancer
+Azithromycin,250,3,High,Cancer
+Paracetamol,800,1,Low,None
+Paracetamol,500,2,Low,Diabetes
+Metformin,500,3,Low,Diabetes
+Azithromycin,650,2,High,Hypertension
+Ibuprofen,500,3,Low,Diabetes
+Paracetamol,650,2,Low,Cancer
+Amoxicillin,250,1,Low,Diabetes
+Ibuprofen,800,1,Low,Hypertension
+Metformin,1000,4,High,Diabetes
+Azithromycin,1000,4,High,Hypertension
+Paracetamol,650,4,Medium,None
+Ibuprofen,800,1,Low,Asthma
+Ibuprofen,1000,2,Medium,Kidney Disease
+Ibuprofen,500,3,Low,Kidney Disease
+Azithromycin,250,3,High,Hypertension
+Paracetamol,500,4,Low,Cancer
+Amoxicillin,500,2,Low,Kidney Disease
+Ibuprofen,250,2,Low,Liver Disease
+Metformin,1000,1,Low,Hypertension
+Amoxicillin,800,4,High,None
+Paracetamol,800,4,Medium,Heart Disease
+Paracetamol,250,2,Low,Diabetes
+Amoxicillin,800,4,High,Diabetes
+Metformin,1000,1,Low,Liver Disease
+Metformin,1000,4,High,Heart Disease
+Paracetamol,650,4,Medium,Hypertension
+Azithromycin,650,1,High,Asthma
+Ibuprofen,1000,2,Medium,Hypertension
+Metformin,1000,2,Medium,Liver Disease
+Ibuprofen,1000,4,High,Hypertension
+Metformin,500,3,Low,Thyroid Disorder
+Paracetamol,250,1,Low,Cancer
+Paracetamol,500,4,Low,Cancer
+Ibuprofen,250,2,Low,Liver Disease
+Azithromycin,800,2,High,Asthma
+Ibuprofen,1000,3,Medium,Cancer
+Ibuprofen,500,1,Low,Heart Disease
+Azithromycin,1000,2,High,Asthma
+Ibuprofen,1000,4,High,Liver Disease
+Azithromycin,800,3,High,Thyroid Disorder
+Amoxicillin,250,1,Low,None
+Metformin,800,3,Medium,Kidney Disease
+Amoxicillin,500,2,Low,Kidney Disease
+Amoxicillin,800,1,Low,Asthma
+Paracetamol,800,2,Low,Diabetes
+Ibuprofen,500,2,Low,Hypertension
+Azithromycin,500,1,Medium,Asthma
+Metformin,500,4,Medium,Hypertension
+Metformin,650,1,Low,Thyroid Disorder
+Amoxicillin,250,3,Low,None
+Metformin,250,4,Low,Diabetes
+Metformin,500,4,Medium,Asthma
+Amoxicillin,650,1,Low,Liver Disease
+Amoxicillin,650,2,Low,Hypertension
+Amoxicillin,800,2,Low,Thyroid Disorder
+Amoxicillin,1000,3,Medium,Cancer
+Paracetamol,1000,3,Medium,Kidney Disease
+Paracetamol,1000,4,Medium,Liver Disease
+Azithromycin,250,4,High,Kidney Disease
+Amoxicillin,500,4,Medium,Kidney Disease
+Metformin,250,3,Low,Heart Disease
+Ibuprofen,800,2,Low,Asthma
+Amoxicillin,650,2,Low,Cancer
+Amoxicillin,500,4,Medium,Asthma
+Amoxicillin,500,4,Medium,Kidney Disease
+Ibuprofen,500,4,Medium,Diabetes
+Azithromycin,500,3,High,Asthma
+Paracetamol,250,1,Low,None
+Paracetamol,500,1,Low,Asthma
+Azithromycin,250,2,Medium,Liver Disease
+Ibuprofen,650,1,Low,Diabetes
+Ibuprofen,1000,3,Medium,Hypertension
+Amoxicillin,250,2,Low,Diabetes
+Metformin,1000,1,Low,Cancer
+Metformin,800,1,Low,Asthma
+Metformin,800,2,Medium,Diabetes
+Paracetamol,500,4,Low,Diabetes
+Azithromycin,800,3,High,Liver Disease
+Azithromycin,1000,1,High,Heart Disease
+Paracetamol,650,4,Medium,Liver Disease
+Paracetamol,650,1,Low,Diabetes
+Azithromycin,650,3,High,Hypertension
+Azithromycin,500,3,High,Liver Disease
+Ibuprofen,650,4,Medium,Diabetes
+Ibuprofen,1000,1,Low,None
+Paracetamol,500,2,Low,Kidney Disease
+Metformin,1000,2,Medium,Diabetes
+Azithromycin,800,4,High,Asthma
+Amoxicillin,800,1,Low,Hypertension
+Metformin,500,3,Low,Liver Disease
+Paracetamol,250,2,Low,Asthma
+Paracetamol,650,1,Low,Diabetes
+Ibuprofen,1000,1,Low,None
+Azithromycin,650,1,High,Kidney Disease
+Paracetamol,250,4,Low,Liver Disease
+Ibuprofen,500,4,Medium,None
+Paracetamol,800,4,Medium,Thyroid Disorder
+Paracetamol,650,1,Low,Cancer
+Paracetamol,250,3,Low,Cancer
+Ibuprofen,500,2,Low,Hypertension
+Metformin,650,2,Low,Liver Disease
+Azithromycin,1000,3,High,Cancer
+Ibuprofen,800,2,Low,Hypertension
+Amoxicillin,650,4,Medium,Kidney Disease
+Amoxicillin,650,1,Low,Cancer
+Azithromycin,500,4,High,Thyroid Disorder
+Azithromycin,1000,3,High,Kidney Disease
+Ibuprofen,500,3,Low,Thyroid Disorder
+Azithromycin,1000,3,High,Hypertension
+Metformin,250,3,Low,Asthma
+Ibuprofen,800,4,Medium,Kidney Disease
+Metformin,1000,2,Medium,None
+Metformin,1000,1,Low,Asthma
+Metformin,650,3,Medium,Diabetes
+Paracetamol,250,1,Low,Diabetes
+Azithromycin,1000,1,High,Hypertension
+Azithromycin,500,3,High,Thyroid Disorder
+Amoxicillin,800,2,Low,Hypertension
+Paracetamol,650,2,Low,Cancer
+Paracetamol,250,1,Low,Cancer
+Metformin,650,4,High,Cancer
+Ibuprofen,800,1,Low,Cancer
+Ibuprofen,500,3,Low,Asthma
+Paracetamol,650,4,Medium,Hypertension
+Ibuprofen,250,4,Low,Hypertension
+Paracetamol,250,3,Low,Asthma
+Paracetamol,1000,2,Low,Hypertension
+Amoxicillin,250,1,Low,Diabetes
+Metformin,800,2,Medium,Kidney Disease
+Azithromycin,500,3,High,Diabetes
+Ibuprofen,500,2,Low,Liver Disease
+Ibuprofen,650,2,Low,None
+Ibuprofen,250,4,Low,Kidney Disease
+Amoxicillin,800,1,Low,Liver Disease
+Metformin,250,4,Low,Heart Disease
+Paracetamol,1000,1,Low,Diabetes
+Ibuprofen,650,3,Medium,Kidney Disease
+Metformin,800,3,Medium,Asthma
+Paracetamol,800,2,Low,Diabetes
+Amoxicillin,800,3,Medium,Asthma
+Ibuprofen,650,4,Medium,Hypertension
+Azithromycin,250,3,High,None
+Metformin,800,4,High,Heart Disease
+Paracetamol,250,2,Low,Diabetes
+Paracetamol,250,1,Low,Asthma
+Metformin,800,2,Medium,Asthma
+Ibuprofen,250,3,Low,Asthma
+Paracetamol,1000,4,Medium,Cancer
+Metformin,800,3,Medium,Liver Disease
+Metformin,1000,4,High,Asthma
+Azithromycin,500,3,High,Hypertension
+Amoxicillin,650,2,Low,Hypertension
+Paracetamol,800,1,Low,Liver Disease
+Metformin,1000,4,High,Hypertension
+Amoxicillin,800,1,Low,Asthma
+Paracetamol,650,3,Low,Hypertension
+Metformin,250,3,Low,None
+Paracetamol,1000,1,Low,Diabetes
+Amoxicillin,1000,3,Medium,None
+Azithromycin,650,2,High,Heart Disease
+Paracetamol,1000,4,Medium,Cancer
+Paracetamol,1000,1,Low,Kidney Disease
+Metformin,250,1,Low,Liver Disease
+Metformin,1000,2,Medium,Diabetes
+Azithromycin,1000,4,High,Heart Disease
+Azithromycin,1000,2,High,Cancer
+Metformin,1000,4,High,Kidney Disease
+Paracetamol,250,4,Low,None
+Metformin,800,4,High,Cancer
+Metformin,250,1,Low,Kidney Disease
+Amoxicillin,1000,2,Medium,Diabetes
+Amoxicillin,1000,3,Medium,Thyroid Disorder
+Azithromycin,1000,2,High,None
+Metformin,250,2,Low,Kidney Disease
+Amoxicillin,500,1,Low,Cancer
+Amoxicillin,1000,4,High,Hypertension
+Amoxicillin,250,3,Low,None
+Paracetamol,1000,4,Medium,Hypertension
+Amoxicillin,1000,3,Medium,Asthma
+Azithromycin,650,4,High,Liver Disease
+Amoxicillin,1000,4,High,Diabetes
+Amoxicillin,650,2,Low,Hypertension
+Azithromycin,800,3,High,None
+Amoxicillin,650,4,Medium,Hypertension
+Paracetamol,500,2,Low,Cancer
+Paracetamol,1000,1,Low,Liver Disease
+Ibuprofen,650,2,Low,Asthma
+Azithromycin,250,3,High,Diabetes
+Ibuprofen,800,4,Medium,None
+Ibuprofen,1000,1,Low,None
+Azithromycin,650,4,High,Cancer
+Ibuprofen,800,4,Medium,Heart Disease
+Amoxicillin,250,4,Low,None
+Ibuprofen,1000,3,Medium,Liver Disease
+Azithromycin,250,4,High,Hypertension
+Paracetamol,1000,1,Low,Cancer
+Amoxicillin,1000,4,High,Thyroid Disorder
+Metformin,800,3,Medium,Hypertension
+Metformin,1000,1,Low,Cancer
+Metformin,1000,4,High,Thyroid Disorder
+Metformin,250,1,Low,None
+Ibuprofen,250,3,Low,None
+Paracetamol,1000,1,Low,Heart Disease
+Azithromycin,800,4,High,Liver Disease
+Metformin,250,4,Low,None
+Amoxicillin,1000,3,Medium,Diabetes
+Metformin,800,4,High,Diabetes
+Azithromycin,250,1,Low,None
+Metformin,1000,3,High,Diabetes
+Amoxicillin,1000,3,Medium,Heart Disease
+Metformin,500,4,Medium,Thyroid Disorder
+Metformin,500,3,Low,None
+Amoxicillin,800,2,Low,Thyroid Disorder
+Amoxicillin,800,3,Medium,Diabetes
+Ibuprofen,1000,3,Medium,Liver Disease
+Ibuprofen,650,4,Medium,Cancer
+Azithromycin,1000,2,High,Diabetes
+Ibuprofen,650,1,Low,Hypertension
+Ibuprofen,500,4,Medium,Thyroid Disorder
+Paracetamol,250,4,Low,Kidney Disease
+Ibuprofen,1000,1,Low,Diabetes
+Ibuprofen,650,2,Low,Cancer
+Ibuprofen,800,2,Low,Asthma
+Ibuprofen,650,1,Low,Hypertension
+Metformin,800,1,Low,Kidney Disease
+Amoxicillin,800,1,Low,Asthma
+Amoxicillin,250,1,Low,Cancer
+Paracetamol,650,4,Medium,Cancer
+Amoxicillin,800,4,High,Diabetes
+Paracetamol,650,4,Medium,Hypertension
+Ibuprofen,500,3,Low,Kidney Disease
+Metformin,500,3,Low,Diabetes
+Azithromycin,500,2,High,Hypertension
+Paracetamol,800,3,Low,Diabetes
+Ibuprofen,1000,3,Medium,Cancer
+Metformin,800,1,Low,Thyroid Disorder
+Amoxicillin,500,2,Low,Asthma
+Metformin,500,4,Medium,None
+Amoxicillin,650,1,Low,Diabetes
+Metformin,500,1,Low,Diabetes
+Metformin,250,1,Low,Kidney Disease
+Metformin,800,3,Medium,None
+Metformin,250,2,Low,Cancer
+Metformin,250,1,Low,Thyroid Disorder
+Metformin,1000,2,Medium,Kidney Disease
+Ibuprofen,250,3,Low,Thyroid Disorder
+Azithromycin,1000,4,High,Liver Disease
+Azithromycin,250,2,Medium,Cancer
+Azithromycin,1000,1,High,Heart Disease
+Azithromycin,650,1,High,Kidney Disease
+Azithromycin,250,4,High,Hypertension
+Azithromycin,800,3,High,Thyroid Disorder
+Amoxicillin,1000,3,Medium,Asthma
+Amoxicillin,650,1,Low,Diabetes
+Ibuprofen,250,3,Low,Liver Disease
+Metformin,1000,3,High,Kidney Disease
+Ibuprofen,800,3,Medium,Thyroid Disorder
+Ibuprofen,1000,4,High,Heart Disease
+Paracetamol,500,3,Low,Heart Disease
+Ibuprofen,1000,2,Medium,Cancer
+Ibuprofen,800,4,Medium,Kidney Disease
+Metformin,650,1,Low,Cancer
+Ibuprofen,1000,2,Medium,Cancer
+Azithromycin,1000,1,High,Kidney Disease
+Ibuprofen,800,1,Low,Hypertension
+Ibuprofen,250,3,Low,Hypertension
+Amoxicillin,250,2,Low,Kidney Disease
+Ibuprofen,800,3,Medium,Asthma
+Ibuprofen,250,3,Low,Heart Disease
+Paracetamol,250,2,Low,Heart Disease
+Metformin,500,2,Low,Cancer
+Paracetamol,650,2,Low,Hypertension
+Amoxicillin,650,4,Medium,None
+Ibuprofen,800,2,Low,Kidney Disease
+Azithromycin,500,3,High,Cancer
+Paracetamol,250,1,Low,Diabetes
+Ibuprofen,1000,3,Medium,None
+Ibuprofen,800,4,Medium,Hypertension
+Metformin,800,2,Medium,Kidney Disease
+Ibuprofen,800,4,Medium,Cancer
+Metformin,250,3,Low,None
+Paracetamol,800,3,Low,Asthma
+Paracetamol,250,2,Low,None
+Metformin,250,2,Low,Cancer
+Paracetamol,650,3,Low,Thyroid Disorder
+Paracetamol,500,1,Low,Asthma
+Ibuprofen,800,2,Low,Liver Disease
+Metformin,1000,4,High,Asthma
+Paracetamol,650,4,Medium,Hypertension
+Azithromycin,650,3,High,Cancer
+Paracetamol,800,2,Low,Diabetes
+Amoxicillin,650,2,Low,Diabetes
+Metformin,250,2,Low,Liver Disease
+Amoxicillin,500,4,Medium,Hypertension
+Paracetamol,250,2,Low,Kidney Disease
+Paracetamol,500,3,Low,Asthma
+Amoxicillin,500,3,Low,Hypertension
+Amoxicillin,500,4,Medium,Hypertension
+Metformin,500,2,Low,Asthma
+Amoxicillin,250,2,Low,Hypertension
+Amoxicillin,500,3,Low,Kidney Disease
+Metformin,800,3,Medium,Liver Disease
+Azithromycin,1000,4,High,Hypertension
+Metformin,800,1,Low,Asthma
+Amoxicillin,500,1,Low,Hypertension
+Metformin,800,4,High,Thyroid Disorder
+Azithromycin,500,2,High,Liver Disease
+Azithromycin,1000,2,High,Kidney Disease
+Metformin,500,3,Low,None
+Ibuprofen,650,3,Medium,Thyroid Disorder
+Metformin,250,4,Low,Asthma
+Ibuprofen,500,4,Medium,Heart Disease
+Amoxicillin,250,2,Low,None
+Paracetamol,500,3,Low,Thyroid Disorder
+Metformin,1000,1,Low,Hypertension
+Azithromycin,800,2,High,Diabetes
+Azithromycin,650,2,High,Heart Disease
+Paracetamol,800,3,Low,Asthma
+Azithromycin,650,4,High,Hypertension
+Ibuprofen,800,2,Low,Kidney Disease
+Metformin,650,2,Low,Liver Disease
+Amoxicillin,1000,3,Medium,Asthma
+Metformin,500,4,Medium,None
+Ibuprofen,1000,4,High,Thyroid Disorder
+Paracetamol,1000,1,Low,Hypertension
+Ibuprofen,1000,2,Medium,Kidney Disease
+Amoxicillin,800,3,Medium,Asthma
+Paracetamol,800,2,Low,Liver Disease
+Paracetamol,650,4,Medium,Cancer
+Ibuprofen,1000,3,Medium,Cancer
+Paracetamol,650,3,Low,Diabetes
+Azithromycin,500,3,High,Thyroid Disorder
+Ibuprofen,250,2,Low,Thyroid Disorder
+Metformin,500,1,Low,Diabetes
+Amoxicillin,500,3,Low,Kidney Disease
+Paracetamol,1000,1,Low,Heart Disease
+Ibuprofen,250,4,Low,Liver Disease
+Azithromycin,500,4,High,Thyroid Disorder
+Amoxicillin,650,1,Low,Asthma
+Ibuprofen,250,3,Low,Kidney Disease
+Paracetamol,250,2,Low,Thyroid Disorder
+Metformin,800,3,Medium,Thyroid Disorder
+Ibuprofen,650,3,Medium,Heart Disease
+Metformin,250,2,Low,Heart Disease
+Ibuprofen,1000,4,High,None
+Ibuprofen,800,2,Low,Diabetes
+Ibuprofen,800,3,Medium,Cancer
+Amoxicillin,250,2,Low,Diabetes
+Amoxicillin,500,1,Low,Kidney Disease
+Metformin,650,1,Low,Kidney Disease
+Paracetamol,650,4,Medium,Thyroid Disorder
+Paracetamol,1000,4,Medium,None
+Amoxicillin,1000,2,Medium,Asthma
+Ibuprofen,500,2,Low,Thyroid Disorder
+Azithromycin,500,2,High,Diabetes
+Paracetamol,500,3,Low,None
+Metformin,500,4,Medium,Diabetes
+Metformin,800,4,High,Liver Disease
+Metformin,1000,4,High,Kidney Disease
+Amoxicillin,500,1,Low,None
+Metformin,1000,2,Medium,Liver Disease
+Azithromycin,500,3,High,Heart Disease
+Ibuprofen,800,2,Low,Hypertension
+Azithromycin,500,2,High,Hypertension
+Azithromycin,500,1,Medium,None
+Paracetamol,800,2,Low,Liver Disease
+Ibuprofen,250,2,Low,Heart Disease
+Metformin,650,1,Low,Thyroid Disorder
+Azithromycin,650,4,High,Kidney Disease
+Azithromycin,800,4,High,Diabetes
+Paracetamol,650,4,Medium,Thyroid Disorder
+Paracetamol,1000,1,Low,Cancer
+Ibuprofen,1000,3,Medium,Hypertension
+Paracetamol,1000,2,Low,Thyroid Disorder
+Metformin,1000,4,High,Asthma
+Ibuprofen,500,3,Low,Diabetes
+Paracetamol,500,1,Low,Asthma
+Amoxicillin,650,1,Low,Hypertension
+Paracetamol,650,2,Low,Hypertension
+Ibuprofen,250,3,Low,None
+Ibuprofen,1000,1,Low,Heart Disease
+Metformin,500,4,Medium,Liver Disease
+Azithromycin,500,3,High,Liver Disease
+Ibuprofen,500,2,Low,Cancer
+Amoxicillin,650,4,Medium,Heart Disease
+Azithromycin,650,1,High,Asthma
+Azithromycin,650,3,High,Liver Disease
+Ibuprofen,650,4,Medium,Hypertension
+Paracetamol,250,4,Low,Kidney Disease
+Azithromycin,650,2,High,Cancer
+Azithromycin,650,3,High,Cancer
+Paracetamol,250,2,Low,Kidney Disease
+Azithromycin,1000,1,High,Thyroid Disorder
+Amoxicillin,250,3,Low,Thyroid Disorder
+Metformin,250,2,Low,Diabetes
+Paracetamol,800,3,Low,Liver Disease
+Metformin,800,1,Low,Heart Disease
+Ibuprofen,1000,1,Low,Liver Disease
+Ibuprofen,1000,3,Medium,Heart Disease
+Metformin,250,4,Low,Cancer
+Azithromycin,800,1,High,Asthma
+Metformin,800,1,Low,Heart Disease
+Metformin,800,1,Low,Liver Disease
+Azithromycin,800,2,High,None
+Paracetamol,650,4,Medium,Asthma
+Amoxicillin,1000,3,Medium,Asthma
+Amoxicillin,250,4,Low,None
+Azithromycin,500,4,High,None
+Amoxicillin,500,4,Medium,Kidney Disease
+Paracetamol,1000,2,Low,Diabetes
+Metformin,650,4,High,Heart Disease
+Amoxicillin,650,4,Medium,Heart Disease
+Amoxicillin,500,4,Medium,Kidney Disease
+Amoxicillin,500,2,Low,Kidney Disease
+Amoxicillin,800,4,High,Diabetes
+Metformin,1000,3,High,Diabetes
+Paracetamol,250,1,Low,Thyroid Disorder
+Ibuprofen,650,4,Medium,Heart Disease
+Paracetamol,650,1,Low,Heart Disease
+Ibuprofen,650,1,Low,Kidney Disease
+Metformin,500,1,Low,None
+Azithromycin,800,3,High,Cancer
+Paracetamol,250,3,Low,Thyroid Disorder
+Azithromycin,1000,1,High,Diabetes
+Ibuprofen,800,4,Medium,Liver Disease
+Paracetamol,650,4,Medium,Liver Disease
+Azithromycin,1000,2,High,Thyroid Disorder
+Azithromycin,1000,1,High,Cancer
+Azithromycin,650,1,High,Diabetes
+Azithromycin,650,1,High,Cancer
+Azithromycin,250,2,Medium,Heart Disease
+Paracetamol,800,4,Medium,Cancer
+Amoxicillin,650,2,Low,Thyroid Disorder
+Azithromycin,800,1,High,Heart Disease
+Azithromycin,1000,4,High,Heart Disease
+Ibuprofen,250,3,Low,Cancer
+Amoxicillin,650,2,Low,Diabetes
+Paracetamol,500,1,Low,Heart Disease
+Ibuprofen,1000,3,Medium,Hypertension
+Paracetamol,250,1,Low,None
+Metformin,250,2,Low,Diabetes
+Azithromycin,800,3,High,Heart Disease
+Amoxicillin,500,3,Low,Heart Disease
+Ibuprofen,650,1,Low,Asthma
+Metformin,800,4,High,Diabetes
+Azithromycin,500,4,High,Liver Disease
+Amoxicillin,650,4,Medium,Kidney Disease
+Metformin,650,2,Low,Cancer
+Azithromycin,500,1,Medium,Diabetes
+Metformin,1000,4,High,Cancer
+Azithromycin,500,1,Medium,Thyroid Disorder
+Amoxicillin,800,2,Low,Hypertension
+Azithromycin,650,2,High,Kidney Disease
+Amoxicillin,500,1,Low,Kidney Disease
+Amoxicillin,1000,4,High,Hypertension
+Metformin,250,1,Low,Heart Disease
+Azithromycin,650,2,High,Kidney Disease
+Metformin,650,1,Low,Asthma
+Paracetamol,800,3,Low,Asthma
+Azithromycin,650,4,High,None
+Ibuprofen,1000,1,Low,Liver Disease
+Azithromycin,800,4,High,Diabetes
+Ibuprofen,500,1,Low,Kidney Disease
+Metformin,250,2,Low,Thyroid Disorder
+Metformin,650,1,Low,Heart Disease
+Paracetamol,800,3,Low,Diabetes
+Metformin,800,4,High,Heart Disease
+Amoxicillin,500,1,Low,None
+Amoxicillin,500,1,Low,Heart Disease
+Paracetamol,1000,3,Medium,Cancer
+Ibuprofen,650,2,Low,Asthma
+Azithromycin,650,1,High,Hypertension
+Amoxicillin,800,1,Low,Asthma
+Metformin,250,4,Low,Hypertension
+Azithromycin,1000,3,High,Cancer
+Ibuprofen,800,1,Low,Asthma
+Metformin,500,4,Medium,Thyroid Disorder
+Metformin,800,4,High,Liver Disease
+Azithromycin,650,2,High,Liver Disease
+Metformin,250,3,Low,Liver Disease
+Azithromycin,1000,3,High,Heart Disease
+Metformin,650,4,High,Cancer
+Azithromycin,250,4,High,Kidney Disease
+Azithromycin,650,1,High,Cancer
+Amoxicillin,1000,3,Medium,Thyroid Disorder
+Ibuprofen,500,3,Low,Thyroid Disorder
+Amoxicillin,500,2,Low,Diabetes
+Ibuprofen,800,1,Low,Asthma
+Ibuprofen,800,4,Medium,Diabetes
+Metformin,250,4,Low,Thyroid Disorder
+Azithromycin,250,3,High,Heart Disease
+Metformin,500,4,Medium,Thyroid Disorder
+Paracetamol,500,2,Low,Kidney Disease
+Ibuprofen,500,4,Medium,Cancer
+Azithromycin,650,2,High,None
+Metformin,250,4,Low,Thyroid Disorder
+Amoxicillin,500,3,Low,Asthma
+Azithromycin,250,3,High,Cancer
+Metformin,1000,4,High,Kidney Disease
+Amoxicillin,650,4,Medium,Kidney Disease
+Metformin,650,4,High,Thyroid Disorder
+Metformin,1000,3,High,Hypertension
+Paracetamol,250,3,Low,Hypertension
+Metformin,1000,3,High,Liver Disease
+Azithromycin,650,1,High,Liver Disease
+Paracetamol,500,1,Low,Hypertension
+Paracetamol,1000,3,Medium,Liver Disease
+Amoxicillin,500,4,Medium,Asthma
+Amoxicillin,650,3,Medium,Liver Disease
+Amoxicillin,1000,2,Medium,Diabetes
+Metformin,250,2,Low,None
+Metformin,650,4,High,None
+Paracetamol,800,2,Low,Cancer
+Amoxicillin,500,3,Low,Hypertension
+Ibuprofen,800,4,Medium,Cancer
+Azithromycin,800,3,High,Cancer
+Azithromycin,650,1,High,Heart Disease
+Azithromycin,650,4,High,Heart Disease
+Paracetamol,500,4,Low,Diabetes
+Amoxicillin,650,4,Medium,Hypertension
+Azithromycin,1000,4,High,Hypertension
+Amoxicillin,650,3,Medium,Kidney Disease
+Ibuprofen,1000,3,Medium,Liver Disease
+Paracetamol,1000,2,Low,Asthma
+Metformin,650,2,Low,Liver Disease
+Metformin,650,2,Low,Kidney Disease
+Paracetamol,250,2,Low,Thyroid Disorder
+Ibuprofen,650,4,Medium,Asthma
+Ibuprofen,1000,4,High,Thyroid Disorder
+Ibuprofen,250,4,Low,Cancer
+Paracetamol,250,4,Low,Heart Disease
+Paracetamol,800,3,Low,None
+Azithromycin,650,4,High,Hypertension
+Azithromycin,800,2,High,None
+Azithromycin,250,3,High,Liver Disease
+Azithromycin,500,1,Medium,Thyroid Disorder
+Metformin,250,1,Low,Asthma
+Metformin,250,4,Low,Asthma
+Ibuprofen,800,4,Medium,Diabetes
+Amoxicillin,250,2,Low,Asthma
+Azithromycin,500,4,High,Liver Disease
+Ibuprofen,1000,3,Medium,Heart Disease
+Paracetamol,500,3,Low,Kidney Disease
+Ibuprofen,500,4,Medium,Heart Disease
+Azithromycin,650,4,High,Asthma
+Azithromycin,1000,3,High,Kidney Disease
+Ibuprofen,650,1,Low,Liver Disease
+Azithromycin,650,4,High,Kidney Disease
+Azithromycin,500,2,High,Kidney Disease
+Amoxicillin,500,2,Low,Asthma
+Metformin,650,1,Low,Asthma
+Azithromycin,650,4,High,Asthma
+Azithromycin,650,2,High,Heart Disease
+Paracetamol,500,3,Low,Hypertension
+Azithromycin,800,3,High,Heart Disease
+Paracetamol,650,2,Low,Diabetes
+Azithromycin,650,2,High,Thyroid Disorder
+Metformin,800,4,High,Cancer
+Metformin,800,4,High,Diabetes
+Amoxicillin,250,1,Low,Heart Disease
+Metformin,250,2,Low,Asthma
+Amoxicillin,1000,1,Low,Hypertension
+Azithromycin,1000,4,High,Asthma
+Azithromycin,1000,4,High,Kidney Disease
+Paracetamol,500,2,Low,Cancer
+Ibuprofen,250,4,Low,Kidney Disease
+Ibuprofen,250,1,Low,Asthma
+Paracetamol,500,2,Low,Diabetes
+Amoxicillin,650,2,Low,Diabetes
+Metformin,500,1,Low,Thyroid Disorder
+Metformin,650,4,High,Kidney Disease
+Paracetamol,500,1,Low,Cancer
+Paracetamol,250,1,Low,Diabetes
+Paracetamol,1000,4,Medium,Cancer
+Amoxicillin,250,4,Low,Liver Disease
+Ibuprofen,500,2,Low,Thyroid Disorder
+Ibuprofen,250,4,Low,Cancer
+Ibuprofen,250,2,Low,Kidney Disease
+Azithromycin,800,1,High,Heart Disease
+Ibuprofen,250,2,Low,Thyroid Disorder
+Paracetamol,800,4,Medium,Cancer
+Ibuprofen,650,4,Medium,Kidney Disease
+Metformin,800,1,Low,Liver Disease
+Metformin,500,1,Low,Liver Disease
+Metformin,250,1,Low,Asthma
+Paracetamol,1000,3,Medium,None
+Metformin,250,1,Low,Heart Disease
+Amoxicillin,650,3,Medium,Thyroid Disorder
+Paracetamol,1000,4,Medium,Heart Disease
+Ibuprofen,1000,1,Low,Liver Disease
+Amoxicillin,500,3,Low,Diabetes
+Paracetamol,800,2,Low,Hypertension
+Metformin,650,2,Low,Asthma
+Ibuprofen,800,4,Medium,Kidney Disease
+Azithromycin,500,3,High,Hypertension
+Paracetamol,500,4,Low,Asthma
+Metformin,650,3,Medium,Liver Disease
+Metformin,1000,3,High,Thyroid Disorder
+Azithromycin,1000,3,High,Thyroid Disorder
+Amoxicillin,1000,3,Medium,Diabetes
+Azithromycin,800,4,High,Kidney Disease
+Ibuprofen,650,2,Low,Thyroid Disorder
+Paracetamol,250,1,Low,Cancer
+Azithromycin,500,4,High,Asthma
+Metformin,250,4,Low,Liver Disease
+Paracetamol,650,1,Low,Thyroid Disorder
+Azithromycin,500,1,Medium,Asthma
+Azithromycin,650,3,High,Hypertension
+Ibuprofen,250,1,Low,Diabetes
+Amoxicillin,650,3,Medium,Diabetes
+Ibuprofen,800,4,Medium,Asthma
+Paracetamol,800,3,Low,Hypertension
+Paracetamol,1000,2,Low,None
+Amoxicillin,650,2,Low,Asthma
+Ibuprofen,250,2,Low,Diabetes
+Paracetamol,250,4,Low,Asthma
+Azithromycin,650,1,High,Liver Disease
+Ibuprofen,800,3,Medium,Hypertension
+Amoxicillin,1000,2,Medium,Diabetes
+Azithromycin,650,3,High,Liver Disease
+Metformin,650,2,Low,None
+Paracetamol,250,3,Low,Liver Disease
+Azithromycin,800,3,High,Liver Disease
+Amoxicillin,1000,4,High,Hypertension
+Azithromycin,500,2,High,Liver Disease
+Azithromycin,650,4,High,None
+Amoxicillin,250,4,Low,Thyroid Disorder
+Metformin,800,2,Medium,Heart Disease
+Ibuprofen,800,2,Low,None
+Metformin,800,2,Medium,Diabetes
+Amoxicillin,650,3,Medium,None
+Paracetamol,500,2,Low,Heart Disease
+Ibuprofen,650,2,Low,Diabetes
+Paracetamol,500,2,Low,Thyroid Disorder
+Metformin,800,1,Low,Thyroid Disorder
+Azithromycin,650,3,High,Heart Disease
+Amoxicillin,650,3,Medium,Liver Disease
+Azithromycin,250,1,Low,Heart Disease
+Azithromycin,500,3,High,Thyroid Disorder
+Paracetamol,500,3,Low,Liver Disease
+Azithromycin,650,4,High,Heart Disease
+Ibuprofen,650,1,Low,Heart Disease
+Metformin,800,4,High,Hypertension
+Amoxicillin,1000,4,High,Hypertension
+Amoxicillin,800,3,Medium,Diabetes
+Metformin,250,3,Low,Thyroid Disorder
+Metformin,650,3,Medium,Asthma
+Metformin,650,1,Low,Cancer
+Metformin,800,4,High,Hypertension
+Azithromycin,1000,3,High,Cancer
+Amoxicillin,1000,3,Medium,Diabetes
+Paracetamol,800,2,Low,Kidney Disease
+Ibuprofen,500,4,Medium,Thyroid Disorder
+Paracetamol,500,3,Low,Diabetes
+Ibuprofen,1000,3,Medium,Diabetes
+Ibuprofen,250,2,Low,Hypertension
+Azithromycin,650,4,High,None
+Ibuprofen,650,3,Medium,Hypertension
+Paracetamol,650,1,Low,Hypertension
+Metformin,800,3,Medium,Diabetes
+Azithromycin,250,1,Low,Cancer
+Ibuprofen,1000,2,Medium,Heart Disease
+Paracetamol,800,3,Low,Asthma
+Amoxicillin,650,1,Low,Thyroid Disorder
+Ibuprofen,1000,3,Medium,Asthma
+Metformin,800,3,Medium,Diabetes
+Paracetamol,650,2,Low,Cancer
+Amoxicillin,1000,3,Medium,Liver Disease
+Metformin,500,1,Low,Asthma
+Metformin,250,2,Low,Hypertension
+Ibuprofen,800,2,Low,Thyroid Disorder
+Amoxicillin,250,3,Low,Cancer
+Metformin,500,1,Low,Heart Disease
+Azithromycin,650,2,High,None
+Ibuprofen,800,2,Low,Asthma
+Metformin,250,2,Low,Thyroid Disorder
+Metformin,250,3,Low,Kidney Disease
+Metformin,250,2,Low,Hypertension
+Metformin,500,2,Low,None
+Metformin,500,3,Low,Liver Disease
+Amoxicillin,650,3,Medium,Liver Disease
+Ibuprofen,800,4,Medium,Heart Disease
+Paracetamol,250,2,Low,Cancer
+Amoxicillin,800,2,Low,Cancer
+Azithromycin,1000,4,High,Hypertension
+Azithromycin,1000,1,High,Asthma
+Azithromycin,250,1,Low,None
+Azithromycin,500,2,High,None
+Amoxicillin,800,1,Low,Asthma
+Amoxicillin,650,4,Medium,Diabetes
+Paracetamol,250,1,Low,Liver Disease
+Amoxicillin,250,4,Low,Diabetes
+Metformin,800,4,High,Thyroid Disorder
+Amoxicillin,1000,4,High,Liver Disease
+Azithromycin,1000,1,High,Liver Disease
+Azithromycin,500,1,Medium,Kidney Disease
+Metformin,800,1,Low,Liver Disease
+Ibuprofen,500,1,Low,Diabetes
+Ibuprofen,800,2,Low,Thyroid Disorder
+Amoxicillin,500,4,Medium,Heart Disease
+Metformin,500,1,Low,None
+Amoxicillin,1000,3,Medium,Liver Disease
+Amoxicillin,500,4,Medium,Asthma
+Ibuprofen,250,4,Low,Thyroid Disorder
+Ibuprofen,250,1,Low,Hypertension
+Azithromycin,650,2,High,Asthma
+Metformin,1000,4,High,Thyroid Disorder
+Azithromycin,250,2,Medium,None
+Ibuprofen,500,2,Low,Heart Disease
+Paracetamol,250,4,Low,Hypertension
+Ibuprofen,800,2,Low,Hypertension
+Metformin,800,3,Medium,Cancer
+Metformin,800,4,High,Diabetes
+Azithromycin,500,4,High,Cancer
+Metformin,650,1,Low,Cancer
+Amoxicillin,250,3,Low,Asthma
+Metformin,500,2,Low,Asthma
+Ibuprofen,1000,1,Low,Diabetes
+Metformin,800,1,Low,Cancer
+Amoxicillin,800,3,Medium,Thyroid Disorder
+Amoxicillin,650,2,Low,Diabetes
+Azithromycin,1000,3,High,None
+Metformin,1000,2,Medium,Hypertension
+Ibuprofen,800,2,Low,Asthma
+Amoxicillin,1000,3,Medium,Kidney Disease
+Ibuprofen,500,2,Low,Heart Disease
+Metformin,500,4,Medium,Liver Disease
+Metformin,650,1,Low,Hypertension
+Ibuprofen,800,2,Low,Asthma
+Ibuprofen,250,3,Low,Asthma
+Amoxicillin,800,2,Low,Cancer
+Metformin,500,4,Medium,Cancer
+Metformin,1000,4,High,Thyroid Disorder
+Azithromycin,250,4,High,Kidney Disease
+Paracetamol,1000,4,Medium,Asthma
+Metformin,250,4,Low,Kidney Disease
+Azithromycin,800,2,High,Heart Disease
+Amoxicillin,1000,1,Low,Liver Disease
+Metformin,250,3,Low,Thyroid Disorder
+Metformin,500,4,Medium,Heart Disease
+Paracetamol,650,4,Medium,Kidney Disease
+Paracetamol,1000,3,Medium,Thyroid Disorder
+Amoxicillin,650,3,Medium,Liver Disease
+Amoxicillin,1000,2,Medium,Asthma
+Amoxicillin,1000,2,Medium,None
+Amoxicillin,250,2,Low,Cancer
+Metformin,250,2,Low,Liver Disease
+Azithromycin,250,1,Low,Kidney Disease
+Paracetamol,250,1,Low,Cancer
+Amoxicillin,1000,4,High,None
+Azithromycin,800,4,High,Kidney Disease
+Azithromycin,800,2,High,Liver Disease
+Metformin,500,3,Low,Cancer
+Metformin,650,2,Low,Cancer
+Ibuprofen,250,2,Low,Liver Disease
+Metformin,800,4,High,Kidney Disease
+Metformin,500,3,Low,Diabetes
+Azithromycin,250,3,High,Thyroid Disorder
+Metformin,650,4,High,Hypertension
+Paracetamol,800,2,Low,Hypertension
+Amoxicillin,1000,3,Medium,Diabetes
+Metformin,800,2,Medium,Liver Disease
+Azithromycin,1000,4,High,None
+Ibuprofen,500,2,Low,Cancer
+Amoxicillin,1000,4,High,Cancer
+Azithromycin,1000,3,High,None
+Metformin,800,1,Low,Liver Disease
+Paracetamol,800,2,Low,Diabetes
+Azithromycin,800,4,High,Hypertension
+Ibuprofen,800,4,Medium,Diabetes
+Ibuprofen,1000,1,Low,Thyroid Disorder
+Ibuprofen,650,4,Medium,Cancer
+Paracetamol,1000,3,Medium,Liver Disease
+Azithromycin,800,4,High,None
+Ibuprofen,250,2,Low,Asthma
+Amoxicillin,250,3,Low,Diabetes
+Paracetamol,500,3,Low,Diabetes
+Azithromycin,650,4,High,None
+Metformin,800,4,High,Diabetes
+Paracetamol,800,3,Low,Liver Disease
+Azithromycin,650,4,High,Thyroid Disorder
+Amoxicillin,1000,1,Low,Asthma
+Metformin,250,1,Low,Kidney Disease
+Ibuprofen,1000,4,High,Cancer
+Metformin,500,1,Low,Kidney Disease
+Metformin,500,4,Medium,None
+Ibuprofen,800,2,Low,Kidney Disease
+Ibuprofen,500,4,Medium,Diabetes
+Ibuprofen,650,2,Low,Heart Disease
+Ibuprofen,800,3,Medium,Liver Disease
+Azithromycin,250,1,Low,Heart Disease
+Paracetamol,800,4,Medium,None
+Amoxicillin,800,3,Medium,Cancer
+Metformin,650,1,Low,Diabetes
+Azithromycin,1000,1,High,Heart Disease
+Amoxicillin,500,1,Low,Diabetes
+Azithromycin,650,2,High,None
+Amoxicillin,500,4,Medium,None
+Azithromycin,800,1,High,Diabetes
+Amoxicillin,250,4,Low,Liver Disease
+Ibuprofen,800,3,Medium,Thyroid Disorder
+Amoxicillin,500,1,Low,Diabetes
+Paracetamol,1000,2,Low,Diabetes
+Paracetamol,650,1,Low,Kidney Disease
+Metformin,650,2,Low,None
+Azithromycin,1000,3,High,Cancer
+Ibuprofen,250,3,Low,Diabetes
+Amoxicillin,500,1,Low,Hypertension
+Azithromycin,650,1,High,Cancer
+Paracetamol,500,1,Low,Heart Disease
+Azithromycin,800,3,High,Heart Disease
+Amoxicillin,650,2,Low,Kidney Disease
+Amoxicillin,1000,1,Low,Diabetes
+Paracetamol,1000,4,Medium,Cancer
+Azithromycin,1000,4,High,Liver Disease
+Paracetamol,250,2,Low,Kidney Disease
+Paracetamol,500,4,Low,Hypertension
+Ibuprofen,250,3,Low,Thyroid Disorder
+Metformin,1000,2,Medium,Diabetes
+Amoxicillin,1000,3,Medium,Heart Disease
+Ibuprofen,800,1,Low,Kidney Disease
+Amoxicillin,650,4,Medium,Cancer
+Metformin,1000,2,Medium,Cancer
+Amoxicillin,800,1,Low,Hypertension
+Paracetamol,1000,1,Low,Asthma
+Amoxicillin,250,1,Low,Asthma
+Ibuprofen,650,4,Medium,Kidney Disease
+Amoxicillin,1000,4,High,Liver Disease
+Ibuprofen,1000,2,Medium,Hypertension
+Ibuprofen,800,1,Low,Cancer
+Paracetamol,250,1,Low,Heart Disease
+Metformin,1000,4,High,Liver Disease
+Amoxicillin,800,1,Low,Hypertension
+Amoxicillin,650,4,Medium,Diabetes
+Metformin,800,4,High,Cancer
+Paracetamol,650,4,Medium,Asthma
+Paracetamol,500,2,Low,None
+Metformin,800,3,Medium,Asthma
+Amoxicillin,650,3,Medium,Thyroid Disorder
+Azithromycin,500,1,Medium,Thyroid Disorder
+Amoxicillin,250,3,Low,Hypertension
+Paracetamol,250,3,Low,Liver Disease
+Metformin,650,3,Medium,Asthma
+Amoxicillin,500,2,Low,Asthma
+Azithromycin,800,4,High,Liver Disease
+Metformin,1000,1,Low,Kidney Disease
+Amoxicillin,800,1,Low,Asthma
+Ibuprofen,250,3,Low,Heart Disease
+Paracetamol,650,2,Low,Diabetes
+Metformin,800,1,Low,None
+Paracetamol,500,2,Low,Heart Disease
+Metformin,1000,1,Low,Asthma
+Metformin,500,3,Low,Liver Disease
+Ibuprofen,500,1,Low,Kidney Disease
+Paracetamol,500,3,Low,Thyroid Disorder
+Azithromycin,800,4,High,Thyroid Disorder
+Amoxicillin,650,1,Low,Asthma
+Ibuprofen,1000,4,High,Diabetes
+Metformin,650,4,High,Heart Disease
+Paracetamol,250,3,Low,Hypertension
+Metformin,1000,1,Low,Diabetes
+Azithromycin,250,3,High,Hypertension
+Paracetamol,1000,3,Medium,Asthma
+Amoxicillin,250,3,Low,Thyroid Disorder
+Amoxicillin,800,2,Low,Diabetes
+Paracetamol,500,1,Low,Cancer
+Amoxicillin,500,4,Medium,None
+Azithromycin,1000,3,High,Kidney Disease
+Paracetamol,800,4,Medium,Heart Disease
+Azithromycin,800,1,High,Heart Disease
+Amoxicillin,650,2,Low,Heart Disease
+Ibuprofen,650,3,Medium,Heart Disease
+Ibuprofen,1000,1,Low,Heart Disease
+Amoxicillin,500,4,Medium,Liver Disease
+Amoxicillin,650,3,Medium,None
+Azithromycin,800,3,High,Asthma
+Ibuprofen,650,2,Low,Liver Disease
+Azithromycin,800,4,High,Liver Disease
+Metformin,1000,3,High,Cancer
+Azithromycin,1000,1,High,Kidney Disease
+Metformin,500,3,Low,Hypertension
+Metformin,500,4,Medium,Kidney Disease
+Azithromycin,500,3,High,Cancer
+Azithromycin,500,1,Medium,Asthma
+Amoxicillin,1000,4,High,Kidney Disease
+Azithromycin,1000,1,High,Kidney Disease
+Azithromycin,250,1,Low,Thyroid Disorder
+Ibuprofen,250,3,Low,Diabetes
+Azithromycin,250,4,High,Cancer
+Azithromycin,250,1,Low,Hypertension
+Paracetamol,800,2,Low,Kidney Disease
+Paracetamol,250,2,Low,Thyroid Disorder
+Ibuprofen,500,4,Medium,Asthma
+Paracetamol,650,1,Low,Thyroid Disorder
+Amoxicillin,250,3,Low,Kidney Disease
+Ibuprofen,1000,2,Medium,Asthma
+Paracetamol,800,1,Low,None
+Azithromycin,800,4,High,Diabetes
+Ibuprofen,800,2,Low,Thyroid Disorder
+Azithromycin,800,3,High,None
+Paracetamol,250,4,Low,Thyroid Disorder
+Amoxicillin,800,1,Low,Hypertension
+Azithromycin,1000,2,High,Heart Disease
+Metformin,1000,1,Low,Liver Disease
+Azithromycin,250,3,High,Cancer
+Paracetamol,800,4,Medium,Kidney Disease
+Ibuprofen,800,4,Medium,Asthma
+Ibuprofen,500,3,Low,Thyroid Disorder
+Paracetamol,650,4,Medium,Diabetes
+Azithromycin,1000,1,High,None
+Ibuprofen,250,1,Low,Liver Disease
+Metformin,250,1,Low,Diabetes
+Paracetamol,1000,3,Medium,Diabetes
+Metformin,1000,3,High,None
+Ibuprofen,1000,4,High,Asthma
+Amoxicillin,250,3,Low,None
+Paracetamol,800,2,Low,Cancer
+Metformin,650,2,Low,None
+Ibuprofen,1000,2,Medium,Hypertension
+Paracetamol,800,4,Medium,Liver Disease
+Azithromycin,650,2,High,Thyroid Disorder
+Metformin,250,3,Low,Liver Disease
+Ibuprofen,1000,1,Low,Kidney Disease
+Ibuprofen,250,3,Low,None
+Paracetamol,500,2,Low,Hypertension
+Paracetamol,650,4,Medium,Hypertension
+Metformin,250,3,Low,Liver Disease
+Amoxicillin,1000,4,High,Asthma
+Azithromycin,1000,2,High,Hypertension
+Azithromycin,1000,4,High,Heart Disease
+Paracetamol,1000,4,Medium,None
+Paracetamol,500,3,Low,Thyroid Disorder
+Azithromycin,500,4,High,Thyroid Disorder
+Amoxicillin,800,2,Low,Liver Disease
+Azithromycin,650,3,High,Liver Disease
+Paracetamol,500,4,Low,Liver Disease
+Metformin,800,2,Medium,Diabetes
+Metformin,800,1,Low,Asthma
+Azithromycin,1000,1,High,Diabetes
+Azithromycin,1000,3,High,Thyroid Disorder
+Paracetamol,800,2,Low,Diabetes
+Paracetamol,250,1,Low,Asthma
+Metformin,1000,1,Low,Heart Disease
+Paracetamol,500,3,Low,Cancer
+Azithromycin,500,4,High,None
+Ibuprofen,250,3,Low,Cancer
+Amoxicillin,650,3,Medium,Asthma
+Paracetamol,800,1,Low,Thyroid Disorder
+Metformin,1000,3,High,Hypertension
+Paracetamol,650,3,Low,None
+Paracetamol,650,1,Low,Kidney Disease
+Amoxicillin,500,3,Low,Cancer
+Metformin,500,2,Low,Cancer
+Amoxicillin,250,2,Low,Diabetes
+Amoxicillin,250,3,Low,Hypertension
+Amoxicillin,1000,3,Medium,Asthma
+Metformin,800,3,Medium,Thyroid Disorder
+Metformin,500,1,Low,Liver Disease
+Ibuprofen,800,2,Low,Cancer
+Paracetamol,1000,2,Low,Heart Disease
+Metformin,800,3,Medium,Asthma
+Ibuprofen,1000,2,Medium,Kidney Disease
+Metformin,1000,1,Low,Liver Disease
+Ibuprofen,500,3,Low,Heart Disease
+Metformin,500,3,Low,Hypertension
