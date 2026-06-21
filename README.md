@@ -35,6 +35,9 @@ Medicine-Overdose-Prediction
 ├── medicine_pred.py
 ├── dataset.csv
 ├── requirements.txt
+├── Med_prd_Abstract.pdf
+├── Medicine Overdose Prediction.pptx
+├── Medicine_prediction_Paper.pdf
 └── README.md
 ```
 
